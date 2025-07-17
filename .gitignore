@@ -1,0 +1,17 @@
+Debug/
+Release/
+output/
+*.o
+*.a
+*.so
+*.dll
+*.exe
+
+.vs/
+.vscode/
+*.suo
+*.user
+*.sln
+*.vcxproj.user
+
+.DS_Store
